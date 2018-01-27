@@ -172,6 +172,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Fuge.it](http://fuge.it/howitworks) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
 
+
 ### Music, Radio and Podcasts
 
 * [Podbay](http://podbay.fm/) - Listen to any podcast online, individual episodes can be downloaded.
@@ -185,6 +186,7 @@ To save the world from creating user accounts and installing software applicatio
 * [MusicPleer](http://musicpleer.audio/) - Stream or download your favorite songs without any hassle.
 * [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
+* [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
 
 
 ### Notepads and Notebooks
@@ -194,13 +196,13 @@ To save the world from creating user accounts and installing software applicatio
 * [shrib](https://shrib.com/) - Save note to a custom URL and edit it later.
 * [Notepad](http://notepad.js.org/) - Offline capable Notepad PWA.
 * [ProtectedText](https://www.protectedtext.com/) - Encrypted notes without ads, sessions, or cookies.
+* [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
 
 
 ### Privacy, Security and Cryptography
 
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
-* [MPCrypt](http://crypt.miguelpiedrafita.com/) - Securely encrypt files.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
 * [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
@@ -236,11 +238,10 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
-* [CSS Menu Maker](http://cssmenumaker.com/) - This tool is great for generating quick, simple drop-down menus from selected styles and generates downloadable CSS.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
-* [FAARY](http://faary.com/) - Free, Online CSS form generator. Requires form elements type and name to preview form and generate downloadable good looking form code.
-* [pForm](http://www.phpform.org/) - Create HTML forms through a simple GUI and preview or download the corresponding code.
+* [pForm](http://www.phpform.org/) - Create HTML forms through a simple WYSIWYG GUI and download the corresponding code.
 * [CSS Autoprefixer](https://autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
+* [CSS Matic](https://www.cssmatic.com/) - CSS tools to quickly generate gradients, border radius, noise textures and box shadow and get corresponding CSS or SASS.
 
 
 ### Search Engines
@@ -272,11 +273,11 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 ### Text based tools
 
 * [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view differences.
-* [ASCII.li](https://ascii.li) - Generate text ASCII art, ASCII emoticons and lots more online.
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
 * [tYp3r](http://typ3r.aavi.me) - dA aNn0Y1Ng t3Xt g3NeRa7or (The annoying text generator :-P).
+* [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
 
 
 <a name="utilities"></a>
